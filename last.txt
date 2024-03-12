@@ -1,1 +1,2 @@
 this is last.txt
+this is second line.
